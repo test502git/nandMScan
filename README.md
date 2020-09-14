@@ -24,6 +24,7 @@ python3 nandM.py -u 192.168.0.100-192.168.0.200 -p 22,80,445 --http # 对IP段�
 # 使用介绍：
 ## 运行环境：Linxu Kali（测试通过）
 ![mahua](https://s1.ax1x.com/2020/09/14/wDa1qf.png)
+![mahua](https://s1.ax1x.com/2020/09/14/wDd4pj.png)
 
 
 
